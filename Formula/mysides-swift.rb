@@ -1,4 +1,4 @@
-class mysides-swift < Formula
+class MysidesSwift < Formula
   desc "A command line application for managing OS X Finder sidebar favourites."
   homepage "https://github.com/jeremy4971/mysides-swift"
   url "https://github.com/jeremy4971/mysides-swift/releases/download/v1.0.1/mysides-1.0.1.tar.gz"
