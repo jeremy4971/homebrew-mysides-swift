@@ -7,4 +7,4 @@
 ## Uninstall
 
     brew uninstall mysides-swift
-    brew tap jeremy4971/mysides-swift
+    brew untap jeremy4971/mysides-swift
