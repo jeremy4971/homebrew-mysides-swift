@@ -1,2 +1,2 @@
-# homebrew-mysides-swift
-Homebrew formula for mysides-swift
+    brew tap jeremy4971/mysides-swift
+    brew install mysides-swift
